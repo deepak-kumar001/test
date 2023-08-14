@@ -1,0 +1,5 @@
+{{#user}
+Name: Deepak Kumar
+Skills: Python, Javascript, Node.js, HTML, CSS, Bootstrap, Git, GitHub, MySQL, C Language
+Email: deepak7011k@gmail.com
+{{/user}}
